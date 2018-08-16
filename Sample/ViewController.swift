@@ -36,15 +36,7 @@ class ViewController: UIViewController {
         
         view.backgroundColor = .groupTableViewBackground
         
-        // Hide default undo/redo/etc buttons
-        textView.inputAssistantItem.leadingBarButtonGroups = []
-        textView.inputAssistantItem.trailingBarButtonGroups = []
-        
-        // Disable built-in autocomplete
-        textView.autocorrectionType = .no
-        
-        // Add the input assistant view as an accessory view
-        textView.inputAccessoryView = inputAssistantView
+        inputAssistantView.attach(to: textView)
         
         view.addSubview(textView)
         textView.translatesAutoresizingMaskIntoConstraints = false
