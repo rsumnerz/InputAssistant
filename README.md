@@ -22,7 +22,8 @@
   <a href="https://github.com/IMcD23/Git">Git</a> &bull;
   <b>InputAssistant</b> &bull;
   <a href="https://github.com/IMcD23/TabView">TabView</a> &bull;
-  <a href="https://github.com/IMcD23/TiltedTabView">TiltedTabView</a>
+  <b>InputAssistant</b> &bull;
+  <a href="https://github.com/IMcD23/Git">Git</a>
 </p>
 
 --------
