@@ -9,6 +9,15 @@
 
 --------
 
+<p align="center">
+  <a href="https://github.com/IMcD23/Git">Git</a> &bull;
+  <b>InputAssistant</b> &bull;
+  <a href="https://github.com/IMcD23/TabView">TabView</a> &bull;
+  <a href="https://github.com/IMcD23/TiltedTabView">TiltedTabView</a>
+</p>
+
+--------
+
 This library is a view that shows custom auto-complete suggestions for your UITextField / UITextView.
 
 [![Build Status](http://img.shields.io/travis/IMcD23/InputAssistant.svg)](https://travis-ci.org/IMcD23/InputAssistant)
