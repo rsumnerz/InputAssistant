@@ -20,7 +20,6 @@ class ViewController: UIViewController {
         inputAssistantView = InputAssistantView()
         super.init(nibName: nil, bundle: nil)
 
-        
         inputAssistantView.delegate = self
         inputAssistantView.dataSource = self
         inputAssistantView.leadingActions = []
